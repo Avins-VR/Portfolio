@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import InternImage from './src/assets/Intern.png';
 
 function Experience() {
   const [experiences] = useState([
@@ -7,7 +8,7 @@ function Experience() {
       duration: "1-week Internship",
       description:
         "Gained hands-on experience in user interface and user experience design by working on real-world layouts and interactive prototypes. I worked primarily with Figma, focusing on creating clean, user-friendly interfaces with strong attention to usability, visual hierarchy, and design consistency. This experience helped me understand practical design workflows and sharpened my skills in wireframing and user-centered design.",
-      image: "./src/assets/Intern.png",
+      image: InternImage, // ✅ Use imported image
       Month: "December 2024"
     }
   ]);
@@ -27,7 +28,7 @@ function Experience() {
             <h4>{experience.Role}</h4>
             <i>{experience.duration}</i>
             <p>{experience.description}</p>
-            <span className="month-pill">{experience.Month}</span>  {/* Moved to bottom */}
+            <span className="month-pill">{experience.Month}</span>
           </div>
         </div>
       ))}
