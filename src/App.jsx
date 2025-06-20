@@ -21,7 +21,7 @@ function App() {
             <a href="https://github.com/Avins-VR" target="_blank" rel="noopener noreferrer">
               <i className="bi bi-github"></i>
             </a>
-            <a href="https://drive.google.com/file/d/11SQVKg2a4W40l6dl4jV4JxwkbJmaMpao/view" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/121YuvqoSIVrbuL13jchC4xm07503skC6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
               <i className="bi bi-file-earmark-person-fill"></i>
             </a>
           </div>
@@ -46,7 +46,7 @@ function App() {
 
         <button className="resume-button">
           <a
-            href="https://drive.google.com/file/d/11SQVKg2a4W40l6dl4jV4JxwkbJmaMpao/view"
+            href="https://drive.google.com/file/d/121YuvqoSIVrbuL13jchC4xm07503skC6/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: 'white', textDecoration: 'none', fontWeight: 'bold' }}
