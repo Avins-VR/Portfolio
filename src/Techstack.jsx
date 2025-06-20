@@ -1,15 +1,14 @@
 import React, { useState } from 'react';
 
-// Image Imports
-import Python from './src/assets/Python.png';
-import JS from './src/assets/JS.png';
-import Java from './src/assets/Java.png';
-import HTML from './src/assets/HTML.png';
-import CSS from './src/assets/CSS.png';
-import ReactLogo from './src/assets/React.png';
-import Git from './src/assets/Git.png';
-import GitHub from './src/assets/GitHub.png';
-import Figma from './src/assets/Figma.png';
+import Python from './assets/Python.png';
+import JS from './assets/JS.png';
+import Java from './assets/Java.png';
+import HTML from './assets/HTML.png';
+import CSS from './assets/CSS.png';
+import ReactLogo from './assets/React.png';
+import Git from './assets/Git.png';
+import GitHub from './assets/GitHub.png';
+import Figma from './assets/Figma.png';
 
 function Techstack() {
   const [techstack] = useState([

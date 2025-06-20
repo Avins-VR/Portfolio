@@ -1,16 +1,15 @@
 import React, { useState } from 'react';
 
-// Importing all certificate images
-import HTML5Cert from './src/assets/HTML5certificate.jpg';
-import CSS3Cert from './src/assets/CSS3certificate.jpg';
-import JSCert from './src/assets/JScertificate.jpg';
-import PythonCert from './src/assets/Datasciencenptl.jpg';
-import LinguaskillCert from './src/assets/Linguaskill.jpg';
-import MyGovCert from './src/assets/mygov.jpg';
-import CiscoDSCert from './src/assets/ciscodatascience.jpg';
-import CiscoNetworkingCert from './src/assets/cisconetworking.jpg';
-import CybersecurityCert from './src/assets/cybersecurity.jpg';
-import ReactCert from './src/assets/Reactcertificate.jpg';
+import HTML5Cert from './assets/HTML5certificate.jpg';
+import CSS3Cert from './assets/CSS3certificate.jpg';
+import JSCert from './assets/JScertificate.jpg';
+import PythonCert from './assets/Datasciencenptl.jpg';
+import LinguaskillCert from './assets/Linguaskill.jpg';
+import MyGovCert from './assets/mygov.jpg';
+import CiscoDSCert from './assets/ciscodatascience.jpg';
+import CiscoNetworkingCert from './assets/cisconetworking.jpg';
+import CybersecurityCert from './assets/cybersecurity.jpg';
+import ReactCert from './assets/Reactcertificate.jpg';
 
 function Certificate() {
   const [certificates] = useState([

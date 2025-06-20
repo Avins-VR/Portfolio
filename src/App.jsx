@@ -5,9 +5,8 @@ import Experience from './Experience';
 import Certificate from './Certificate';
 import Gettouch from './Gettouch';
 
-// Import images directly
-import Adesign from './src/assets/Adesign.png';
-import ProfileImage from './src/assets/Avins.jpg';
+import Adesign from './assets/Adesign.jpg';
+import ProfileImage from './assets/Avins.jpg';
 
 function App() {
   return (
