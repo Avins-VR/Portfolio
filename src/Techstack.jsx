@@ -6,8 +6,8 @@ import Java from './assets/Java.png';
 import HTML from './assets/HTML.png';
 import CSS from './assets/CSS.png';
 import ReactLogo from './assets/React.png';
-import Git from './assets/Git.png';
-import GitHub from './assets/GitHub.png';
+import Git from './assets/git.png';
+import GitHub from './assets/gitHub.png';
 import Figma from './assets/Figma.png';
 
 function Techstack() {

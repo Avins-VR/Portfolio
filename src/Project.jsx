@@ -61,8 +61,8 @@ function Project() {
       title: "Instagram Clone",
       description: "Instagram Clone is a visually rich and interactive project that recreates the core features and aesthetic of the popular social media platform. Designed with a focus on clean UI, smooth user interaction, and responsive layouts, this clone captures the essence of Instagram — from profile views and image feeds to like buttons and post layouts. It’s a showcase of modern design principles and an exploration of how user-centric platforms foster social connection and content sharing",
       image: InstagramClone,
-      demo: "https://Avins-VR.github.io/Instagram-Clone/",
-      github: "https://github.com/Avins-VR/Instagram-Clone"
+      demo: "https://avins-vr.github.io/Insta-Clone//",
+      github: "https://github.com/Avins-VR/Insta-Clone"
     },
     {
       title: "First Portfolio Website",
