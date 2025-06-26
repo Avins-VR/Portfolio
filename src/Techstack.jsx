@@ -7,7 +7,7 @@ import HTML from './assets/HTML.png';
 import CSS from './assets/CSS.png';
 import ReactLogo from './assets/React.png';
 import Git from './assets/git.png';
-import GitHub from './assets/gitHub.png';
+import GitHub from './assets/github.png';
 import Figma from './assets/Figma.png';
 
 function Techstack() {
